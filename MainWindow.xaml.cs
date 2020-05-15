@@ -13,6 +13,10 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+//additional using directive(s)
+
+using System.Text.RegularExpressions;
+
 namespace Cooking_Recipe_Weight_Convertor
 {
     /// <summary>
@@ -23,6 +27,12 @@ namespace Cooking_Recipe_Weight_Convertor
         public MainWindow()
         {
             InitializeComponent();
+        }
+        // method to force numeric only user input 
+        private void NumberValidationTextBox(object sender, TextCompositionEventArgs e)
+        {
+            Regex regex = new Regex("[^0-9]+");
+            e.Handled = regex.IsMatch(e.Text);
         }
     }
 }

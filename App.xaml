@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:Cooking_Recipe_Weight_Convertor"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary Source="Styles/MergedDictionaries.xaml"/>
     </Application.Resources>
 </Application>

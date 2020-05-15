@@ -13,6 +13,15 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-
+        <WrapPanel Grid.Row="1">
+            <Border BorderBrush="Maroon" BorderThickness="2" CornerRadius="3">
+                <TextBox PreviewTextInput="NumberValidationTextBox"/>
+            </Border>
+        </WrapPanel>
+        <WrapPanel Grid.Row="3">
+            <Border BorderBrush="Maroon" BorderThickness="2" CornerRadius="3"  VerticalAlignment="Center">
+                <TextBox IsReadOnly="True" Focusable="False" IsTabStop="False">TestText</TextBox>
+            </Border>
+        </WrapPanel>
     </Grid>
 </Window>

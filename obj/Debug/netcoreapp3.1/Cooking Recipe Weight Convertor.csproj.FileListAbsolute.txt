@@ -1,0 +1,24 @@
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.csprojAssemblyReference.cache
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor_MarkupCompile.cache
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor_MarkupCompile.lref
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\bin\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.exe
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\bin\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.deps.json
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\bin\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.runtimeconfig.json
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\bin\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.runtimeconfig.dev.json
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\bin\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.dll
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\bin\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.pdb
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Styles\TextBox.baml
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.g.resources
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.csproj.CoreCompileInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.AssemblyInfoInputs.cache
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.AssemblyInfo.cs
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.dll
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.pdb
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Cooking Recipe Weight Convertor.genruntimeconfig.cache
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Styles\Window.baml
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Styles\MergedDictionaries.baml
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Styles\WrapPanel.baml

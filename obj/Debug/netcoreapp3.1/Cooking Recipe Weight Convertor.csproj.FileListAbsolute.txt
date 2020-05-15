@@ -22,3 +22,4 @@ C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\De
 C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Styles\Window.baml
 C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Styles\MergedDictionaries.baml
 C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Styles\WrapPanel.baml
+C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\obj\Debug\netcoreapp3.1\Styles\Button.baml

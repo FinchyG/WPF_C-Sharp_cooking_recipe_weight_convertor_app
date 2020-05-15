@@ -1,0 +1,9 @@
+﻿<Application x:Class="Cooking_Recipe_Weight_Convertor.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Cooking_Recipe_Weight_Convertor"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -16,6 +16,9 @@
     <Page Update="Styles\ComboBox.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Styles\TextBlock.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Styles\WrapPanel.xaml">
       <SubType>Designer</SubType>
     </Page>

@@ -26,7 +26,7 @@
         </WrapPanel>
         <WrapPanel Grid.Row="1">
             <Border BorderBrush="Maroon" BorderThickness="2" CornerRadius="3">
-                <TextBox PreviewTextInput="NumberValidationTextBox"/>
+                <TextBox Name="fromInput" PreviewTextInput="NumberValidationTextBox"/>
             </Border>
         </WrapPanel>
         <WrapPanel Grid.Row="2">
@@ -36,7 +36,7 @@
         </WrapPanel>
         <WrapPanel Grid.Row="3">
             <Border BorderBrush="Maroon" BorderThickness="2" CornerRadius="3"  VerticalAlignment="Center">
-                <TextBox IsReadOnly="True" Focusable="False" IsTabStop="False">TestText</TextBox>
+                <TextBlock Name="toOutput" Text="{Binding userNumber}"/>
             </Border>
         </WrapPanel>
     </Grid>

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
 C:\Users\lagau\OneDrive\Documents\Git\WPF\Cooking Recipe Weight Convertor\App.xaml
-6-379778645
+7697354463
 
 4997329442
 1921654412462
-MainWindow.xaml;Styles\Button.xaml;Styles\MergedDictionaries.xaml;Styles\TextBox.xaml;Styles\Window.xaml;Styles\WrapPanel.xaml;
+MainWindow.xaml;Styles\Button.xaml;Styles\ComboBox.xaml;Styles\MergedDictionaries.xaml;Styles\TextBox.xaml;Styles\Window.xaml;Styles\WrapPanel.xaml;
 
-False
+True
 

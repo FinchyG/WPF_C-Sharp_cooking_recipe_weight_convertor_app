@@ -13,6 +13,17 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
+        <WrapPanel>
+            <Border BorderBrush="Maroon" BorderThickness="2" CornerRadius="3">
+                <ComboBox Name="ConversionChoice">
+                    <ComboBoxItem IsSelected="True" Content="Select a Conversion"/>
+                    <ComboBoxItem Content="ounces to grams"/>
+                    <ComboBoxItem Content="grams to ounces"/>
+                    <ComboBoxItem Content="fluid ounces to millilitres"/>
+                    <ComboBoxItem Content="millilitres to fluid ounces"/>
+                </ComboBox>
+            </Border>
+        </WrapPanel>
         <WrapPanel Grid.Row="1">
             <Border BorderBrush="Maroon" BorderThickness="2" CornerRadius="3">
                 <TextBox PreviewTextInput="NumberValidationTextBox"/>

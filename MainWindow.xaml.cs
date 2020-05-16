@@ -34,5 +34,36 @@ namespace Cooking_Recipe_Weight_Convertor
             Regex regex = new Regex("[^0-9]+");
             e.Handled = regex.IsMatch(e.Text);
         }
+
+        private void BtnClick(object sender, RoutedEventArgs e)
+        {
+            double userNumber = Convert.ToDouble(fromInput.Text);
+            var userChoice = ConversionChoice.Text;
+
+            switch (userChoice)
+            {
+                case "ounces to grams":
+                    var answer = Convert.ToString(Math.Round((userNumber * 28.35), 2));
+                    toOutput.Text = $"{answer}";
+                    break;
+
+                case "grams to ounces":
+                    var answer1 = Convert.ToString(Math.Round((userNumber / 28.35), 2));
+                    toOutput.Text = $"{answer1}";
+                    break;
+
+                case "fluid ounces to millilitres":
+                    var answer2 = Convert.ToString(Math.Round((userNumber * 29.6), 2));
+                    toOutput.Text = $"{answer2}";
+                    break;
+
+                case "millilitres to fluid ounces":
+                    var answer3 = Convert.ToString(Math.Round((userNumber / 29.6), 2));
+                    toOutput.Text = $"{answer3}";
+                    break;
+
+            }
+
+        }
     }
 }

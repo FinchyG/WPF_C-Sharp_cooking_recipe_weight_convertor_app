@@ -24,6 +24,7 @@
             </Border>
         </WrapPanel>
         <WrapPanel Grid.Row="1">
+            <Label Content="Enter Amout:" FontSize="12" FontWeight="Black"/>
             <Border BorderBrush="Maroon" BorderThickness="2" CornerRadius="3">
                 <TextBox Name="fromInput" PreviewTextInput="NumberValidationTextBox"/>
             </Border>
